@@ -4,3 +4,9 @@
 [submodule "enderboi/nixos"]
 	path = enderboi/nixos
 	url = git@github.com:kashifulhaque/nixos-config.git
+[submodule "vyogami/dotfiles"]
+	path = vyogami/dotfiles
+	url = https://github.com/vyogami/dotfiles.git
+[submodule "vyogami/gnome"]
+	path = vyogami/gnome
+	url = https://github.com/Vyogami/gnome-shell-configs
